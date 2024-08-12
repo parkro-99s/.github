@@ -70,7 +70,7 @@
 <img src="https://github.com/user-attachments/assets/06fd1905-d80c-472c-84a6-dd1edc13a07e" width=320 />
 
 > 주차장 잔여 좌석 리스트
-<img src="https://github.com/user-attachments/assets/e72dc164-2a7e-42cf-9db1-94d8baa85aa1" width=320 />
+<img src="https://github.com/user-attachments/assets/c60eae56-8444-4223-abf9-958a1bbf53f3" width=320 />
 
 <br>
 
