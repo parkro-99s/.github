@@ -49,35 +49,69 @@
 
 ### 🤷‍♂️ 회원
 > 스플래시
+<img src="https://github.com/user-attachments/assets/9acf4839-cde4-41c0-8c2c-44b752fa34d5" width=400 />
 
 > 자동로그인
 <img src="https://github.com/user-attachments/assets/dcc5357b-cd9f-4a09-9bd6-1904ba9a5fa7" width=400 />
 
 > 마이페이지 - 차량 프로필 변경
+<img src="" width=400 />
 
 > 로딩
+<img src="https://github.com/user-attachments/assets/98637baa-8173-4f74-bd3d-faa59bfcfd90" width=400 />
+
+<br>
 
 ### 🗺️ 지도
 > 현재 유저 위치 추적
+<img src="" width=400 />
 
 > 백화점 지점별 주차장 위치 표시
+<img src="" width=400 />
 
 > 주차장 잔여 좌석 리스트
+<img src="" width=400 />
+
+<br>
 
 ### 📜 주차 내역
+> 나의 주차 내역
+<img src="" width=400 />
+
+> 주차 내역 상세
+<img src="" width=400 />
+
+> 입차 알림
+<img src="" width=400 />
+
+<br>
 
 ### 💵 정산
 > 쿠폰 사용
-<img src="https://github.com/user-attachments/assets/d3de4a33-6bfe-4d57-9e1d-beeb8ab6de4f" width=400 />
+<img src="https://github.com/user-attachments/assets/576da69d-7475-4e78-9f5d-18a71e00b5b1" width=400 />
 
 > 영수증 등록
+<img src="https://github.com/user-attachments/assets/5a1ff303-0be1-4203-a1f9-2d209ebdc843" width=400 />
 
 > 토스페이먼츠 결제
+<img src="" width=400 />
 
 > 정산 후 10분 경과 시 정산 취소 및 알림
+<img src="" width=400 />
 
+<br>
 
 ### 🎫 쿠폰
+> 쿠폰 발급
+: 매월 1일 새벽 2시에 스케줄링을 통한 쿠폰 발급
+<img src="" width=400 />
+
+<br>
 
 ### 🛠️ 관리자
+> 주차장별 주차 내역
+<img src="" width=400 />
+
+> 결제 완료
+<img src="" width=400 />
 
