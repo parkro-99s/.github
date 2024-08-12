@@ -39,7 +39,7 @@
 <br>
 
 ## ⚙️ 시스템 구성도
-<img src="https://github.com/user-attachments/assets/9ab3f54d-6c36-4940-ac0c-a644ce95ca58" width=900 />  
+<img src="https://github.com/user-attachments/assets/1de640d1-88c3-413c-8af9-7f4ca187875d" width = 900 />
 
 - **Presentation Tier**: Kotlin, Android Studio
 - **Application Tier**: Java 11, Springboot 2.7.17, Spring Security, lombok, MyBatis 2.3.2
