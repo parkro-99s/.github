@@ -104,7 +104,7 @@
 ### 🎫 쿠폰
 > 쿠폰 발급
 : 매월 1일 새벽 2시에 스케줄링을 통한 쿠폰 발급
-<img src="" width=320 />
+<img src="https://github.com/user-attachments/assets/e304092f-ff83-4a60-87f9-26d92d1de0ff" width=320 />
 
 <br>
 
@@ -113,7 +113,7 @@
 <img src="https://github.com/user-attachments/assets/e3d418d5-0b1d-4f26-ad5f-a51c16c69633" width=320 />
 
 > 주차장별 주차 내역 - 데이트 피커
-<img src="" width=320 />
+<img src="https://github.com/user-attachments/assets/1b2c52ae-8ab2-44e8-9b5e-cc6d91c72d08" width=320 />
 
 > 임의 정산 처리
 <img src="https://github.com/user-attachments/assets/ed174e1b-5170-4b19-b61e-05ce5fa1798d" width=320 />
