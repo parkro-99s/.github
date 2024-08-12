@@ -49,73 +49,73 @@
 
 ### 🤷‍♂️ 회원
 > 스플래시
-<img src="https://github.com/user-attachments/assets/9acf4839-cde4-41c0-8c2c-44b752fa34d5" width=400 />
+<img src="https://github.com/user-attachments/assets/9acf4839-cde4-41c0-8c2c-44b752fa34d5" width=320 />
 
 > 자동로그인
-<img src="https://github.com/user-attachments/assets/dcc5357b-cd9f-4a09-9bd6-1904ba9a5fa7" width=400 />
+<img src="https://github.com/user-attachments/assets/dcc5357b-cd9f-4a09-9bd6-1904ba9a5fa7" width=320 />
 
 > 마이페이지 - 차량 프로필 변경
-<img src="https://github.com/user-attachments/assets/338bd6de-ce54-4284-97ca-7c026627e794" width=400 />
+<img src="https://github.com/user-attachments/assets/338bd6de-ce54-4284-97ca-7c026627e794" width=320 />
 
 > 로딩
-<img src="https://github.com/user-attachments/assets/98637baa-8173-4f74-bd3d-faa59bfcfd90" width=400 />
+<img src="https://github.com/user-attachments/assets/98637baa-8173-4f74-bd3d-faa59bfcfd90" width=320 />
 
 <br>
 
 ### 🗺️ 지도
 > 현재 유저 위치 추적
-<img src="https://github.com/user-attachments/assets/4d58704e-de22-4d25-9728-2072b826b5bd" width=400 />
+<img src="https://github.com/user-attachments/assets/4d58704e-de22-4d25-9728-2072b826b5bd" width=320 />
 
 > 백화점 지점별 주차장 위치 표시
-<img src="https://github.com/user-attachments/assets/06fd1905-d80c-472c-84a6-dd1edc13a07e" width=400 />
+<img src="https://github.com/user-attachments/assets/06fd1905-d80c-472c-84a6-dd1edc13a07e" width=320 />
 
 > 주차장 잔여 좌석 리스트
-<img src="https://github.com/user-attachments/assets/e72dc164-2a7e-42cf-9db1-94d8baa85aa1" width=400 />
+<img src="https://github.com/user-attachments/assets/e72dc164-2a7e-42cf-9db1-94d8baa85aa1" width=320 />
 
 <br>
 
 ### 📜 주차 내역
 > 나의 주차 내역
-<img src="https://github.com/user-attachments/assets/00982929-7c69-41ca-9cb9-3d1bc5c23549" width=400 />
+<img src="https://github.com/user-attachments/assets/00982929-7c69-41ca-9cb9-3d1bc5c23549" width=320 />
 
 > 주차 내역 상세
-<img src="https://github.com/user-attachments/assets/c0e6c1e6-78b1-47a4-ab01-7de398ec5b74" width=400 />
+<img src="https://github.com/user-attachments/assets/c0e6c1e6-78b1-47a4-ab01-7de398ec5b74" width=320 />
 
 > 입차 알림
-<img src="https://github.com/user-attachments/assets/ea8512ee-e88a-4dde-a230-df5b09cd433b" width=400 />
+<img src="https://github.com/user-attachments/assets/ea8512ee-e88a-4dde-a230-df5b09cd433b" width=320 />
 
 <br>
 
 ### 💵 정산
 > 쿠폰 사용
-<img src="https://github.com/user-attachments/assets/576da69d-7475-4e78-9f5d-18a71e00b5b1" width=400 />
+<img src="https://github.com/user-attachments/assets/576da69d-7475-4e78-9f5d-18a71e00b5b1" width=320 />
 
 > 영수증 등록
-<img src="https://github.com/user-attachments/assets/5a1ff303-0be1-4203-a1f9-2d209ebdc843" width=400 />
+<img src="https://github.com/user-attachments/assets/5a1ff303-0be1-4203-a1f9-2d209ebdc843" width=320 />
 
 > 토스페이먼츠 결제
-<img src="https://github.com/user-attachments/assets/2b4d86e6-a506-40f8-9bda-7eaf760d35f5" width=400 />
+<img src="https://github.com/user-attachments/assets/2b4d86e6-a506-40f8-9bda-7eaf760d35f5" width=320 />
 
 > 정산 후 10분 경과 시 정산 취소 및 알림
-<img src="https://github.com/user-attachments/assets/686f9bde-cef4-4509-9e59-c3e9e5010d34" width=400 />
+<img src="https://github.com/user-attachments/assets/686f9bde-cef4-4509-9e59-c3e9e5010d34" width=320 />
 
 <br>
 
 ### 🎫 쿠폰
 > 쿠폰 발급
 : 매월 1일 새벽 2시에 스케줄링을 통한 쿠폰 발급
-<img src="" width=400 />
+<img src="" width=320 />
 
 <br>
 
 ### 🛠️ 관리자
 > 주차장별 주차 내역 - 차량 번호 및 주차장 검색
-<img src="https://github.com/user-attachments/assets/e3d418d5-0b1d-4f26-ad5f-a51c16c69633" width=400 />
+<img src="https://github.com/user-attachments/assets/e3d418d5-0b1d-4f26-ad5f-a51c16c69633" width=320 />
 
 > 주차장별 주차 내역 - 데이트 피커
-<img src="https://github.com/user-attachments/assets/e077b9f5-19f0-43cf-ab42-7d9a86534a09" width=400 />
+<img src="" width=320 />
 
-> 결제 완료
-<img src="" width=400 />
+> 임의 정산 처리
+<img src="https://github.com/user-attachments/assets/ed174e1b-5170-4b19-b61e-05ce5fa1798d" width=320 />
 
 
