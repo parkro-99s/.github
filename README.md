@@ -109,8 +109,11 @@
 <br>
 
 ### 🛠️ 관리자
-> 주차장별 주차 내역
-<img src="" width=400 />
+> 주차장별 주차 내역 - 차량 번호 및 주차장 검색
+<img src="https://github.com/user-attachments/assets/e3d418d5-0b1d-4f26-ad5f-a51c16c69633" width=400 />
+
+> 주차장별 주차 내역 - 데이트 피커
+<img src="https://github.com/user-attachments/assets/e077b9f5-19f0-43cf-ab42-7d9a86534a09" width=400 />
 
 > 결제 완료
 <img src="" width=400 />
